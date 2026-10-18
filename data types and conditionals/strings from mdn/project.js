@@ -11,6 +11,10 @@ const name = "Damian";
 const greeting = `hello, ${name}`;
 console.log(greeting);
 
+let firstName1 = "damian";
+let lastName1 = "Pietrzak";
+console.log(firstName1, lastName1);
+
 const one = "hello,";
 const two = "how are you?";
 const joined = `${one} ${two}`;
